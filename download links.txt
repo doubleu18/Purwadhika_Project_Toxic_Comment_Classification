@@ -1,0 +1,15 @@
+kaggle link
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview
+
+data
+https://drive.google.com/open?id=1F-dWSLfLneQkMTqhMNE6fUvVMXrB6B94
+
+pipeline
+https://drive.google.com/open?id=1zaFQ-D4k89F8_3B4Okk626Up7tbi7D6E
+
+dashboard
+https://drive.google.com/open?id=1wO-4izo_H8t0FKhChFdKc1PiASfd5Vc_
+
+additional data
+https://drive.google.com/open?id=1bjzHDqOrD1t1h5Qix6xIQC__dtv_ZMsz
+
